@@ -1,0 +1,64 @@
+* {
+  font-family: Inter;
+}
+.navbar {
+  display: flex;
+  width: 99%;
+  height: 10%;
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  background-color: white;
+}
+.navlist {
+  display: flex;
+  width: 60%;
+  height: 100%;
+  margin-right: 0%;
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+  justify-items: flex-end;
+  gap: 1px;
+  flex-shrink: 0;
+}
+.navlist-button {
+  background-color: white;
+  border: none;
+  width: 20%;
+  height: 100%;
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.navlist-button:hover {
+  color: #cf9a72;
+}
+.navbar-title {
+  width: 12%;
+  height: 100%;
+  position: absolute;
+  margin-right: 80%;
+  margin-left: 0%;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 100%;
+  width: 50%;
+  margin-right: 50%;
+  margin-left: 0%;
+  position: absolute;
+}
+.title {
+  height: 100%;
+  width: 60%;
+  margin-right: 0%;
+  margin-left: 50%;
+  position: absolute;
+  margin-top: 16%;
+}
+

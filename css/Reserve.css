@@ -1,0 +1,45 @@
+.flex-container-reserve
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+.MainFlex-reserve{
+    border-radius: 30px;
+    border: 1px solid #EACBAC;
+    background: #EACBAC;
+    width: 1000px;
+    height: 400px;
+    margin-top: 150px;
+
+}
+.flex-item-1-reserve img
+{
+    float: right;
+    height: 400px;
+}
+.flex-item-2-reserve{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.flex-item-2-group
+{
+    margin-top: 150px;
+}
+.flex-item-2-reserve  button:hover
+{
+    background-color: #c29160;
+}
+.flex-item-2-reserve button
+{
+    background: #CF9A72;
+    color: #ffffff;
+    margin-right: 50px;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: 40px;
+    width: 115px;
+    border: none;
+}
