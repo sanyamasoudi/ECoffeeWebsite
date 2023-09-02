@@ -1,6 +1,7 @@
 # ECoffee Website
 
 This website is a coffee shop website that allows users to order coffee, reserve tables, and view product offerings.
+
 This project is part of the "Frontend Programming BootCamp" by CesaCollege on IUST.
 
 ## Getting Started
@@ -46,6 +47,8 @@ The images in the `picture` directory are used on the website. The images are al
 ## HTML
 
 The HTML file are used to create the layout of the website. The main HTML file is `index.html`. This file imports the other HTML files and defines the overall structure of the website.
+
+<img src="https://aryansabet.github.io/FrontendBootcamp/QueraAssets/127.0.0.1_5500_.png" alt="تصوير سايت تكميل شده" >
 
 
 
