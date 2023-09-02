@@ -1,6 +1,7 @@
 # ECoffeeWebsite
 
 This website is a coffee shop website that allows users to order coffee, reserve tables, and view product offerings.
+
 This project is part of the "Frontend Programming BootCamp" by CesaCollege on IUST.
 
 ## Getting Started
